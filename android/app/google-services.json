@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253592933197",
+    "project_id": "news-now-f9dc4",
+    "storage_bucket": "news-now-f9dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253592933197:android:b7a796bed79d10d5739d04",
+        "android_client_info": {
+          "package_name": "com.example.news_now"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEj1GWcrtpWjSt7wltO79Kk4k5GTz1Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
